@@ -20,7 +20,7 @@ link_directories(${BENCHMARK_ROOT}/lib)
 
 add_subdirectory(v0)
 add_subdirectory(v1)
-#add_subdirectory(v2)
+add_subdirectory(v2)
 #add_subdirectory(v3)
 #add_subdirectory(v4)
 
