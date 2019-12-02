@@ -12,5 +12,5 @@ add_executable(dictionary_v1
 
 target_link_libraries(dictionary_v1
 	benchmark
-	${EXTRA_LIBS} papi
+	${EXTRA_LIBS}
 )
